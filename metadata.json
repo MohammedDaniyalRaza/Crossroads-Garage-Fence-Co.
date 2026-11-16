@@ -1,0 +1,6 @@
+{
+  "name": "Crossroads Garage & Fence Co.",
+  "description": "Garage door repair, new garage door installation, and custom fence and gate construction across Lafayette, Avon, and Central & Northwest Indiana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
