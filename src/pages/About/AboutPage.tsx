@@ -17,7 +17,7 @@ export default function AboutPage() {
   return (
     <>
       <PageHero
-        imageKey="carpentryBench"
+        imageKey="shopWrenchWall"
         kicker="Straightforward Trade Work · Lafayette & Avon"
         title="Built on showing up"
         italicAccent="and doing it right."
@@ -63,14 +63,14 @@ export default function AboutPage() {
           <div className="lg:col-span-6 grid grid-cols-12 gap-4 items-stretch">
             <div className="col-span-7">
               <SmartImage
-                imageKey="technicianInspecting"
+                imageKey="aboutFenceCrewPortrait"
                 aspectRatio="3 / 4"
                 className="h-full border border-[rgba(28,27,26,0.22)] rounded-[var(--radius-xs)]"
               />
             </div>
             <div className="col-span-5 flex flex-col gap-4">
               <SmartImage
-                imageKey="hammerAndFasteners"
+                imageKey="crewSitePlanning"
                 aspectRatio="1 / 1"
                 className="border border-[rgba(28,27,26,0.22)] rounded-[var(--radius-xs)]"
               />

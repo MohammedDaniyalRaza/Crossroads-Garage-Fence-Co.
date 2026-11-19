@@ -133,7 +133,7 @@ export const SERVICES = [
         title: 'Residential Door Upgrades',
         summary:
           'Traditional raised-panel, carriage house, modern full-view glass, and insulated steel doors.',
-        imageKey: 'suburbanBrickHome',
+        imageKey: 'cleanDrivewayHome',
         included: [
           'Traditional raised-panel steel and stamped carriage-house designs',
           'Modern aluminum-and-glass full-view architectural doors',
@@ -147,7 +147,7 @@ export const SERVICES = [
         title: 'Custom Sizing & Framing',
         summary:
           'Precision fitting for standard single/double bays as well as oversized workshops and pole barns.',
-        imageKey: 'commercialSteel',
+        imageKey: 'crewSitePlanning',
         included: [
           'Exact rough-opening, headroom, and side-room measurements',
           'Low-headroom and high-lift track configurations where needed',
@@ -245,7 +245,7 @@ export const SERVICES = [
         title: 'Vinyl & Aluminum Fencing',
         summary:
           'Low-maintenance, weather-resistant perimeter solutions for residential yards and pools.',
-        imageKey: 'sunsetPostFence',
+        imageKey: 'whiteVinylFence',
         included: [
           'Full-privacy and semi-privacy heavy-wall vinyl panel runs',
           'Powder-coated aluminum fencing suited for pool enclosures and slopes',

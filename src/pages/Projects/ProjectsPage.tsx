@@ -31,7 +31,7 @@ export default function ProjectsPage() {
   return (
     <>
       <PageHero
-        imageKey="suburbanBrickHome"
+        imageKey="woodGrainGarageDoor"
         kicker="Portfolio · Sample Reference Imagery"
         title="Work built across"
         italicAccent="Central Indiana."

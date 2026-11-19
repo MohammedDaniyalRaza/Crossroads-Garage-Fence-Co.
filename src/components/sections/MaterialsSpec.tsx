@@ -59,7 +59,7 @@ export const MaterialsSpec: React.FC = () => {
             <div className="grid grid-cols-12 gap-3 items-stretch">
               <div className="col-span-7">
                 <SmartImage
-                  imageKey="structuralHardware"
+                  imageKey="shopWrenchWall"
                   aspectRatio="4 / 3"
                   className="h-full border border-[rgba(28,27,26,0.2)] rounded-[var(--radius-xs)]"
                 />
